@@ -9,8 +9,9 @@ export const metadata: Metadata = {
 
 export default function page() {
     return (
-        <div className='flex flex-col items-center'>
+        <div className='flex flex-col items-center text-white'>
             <h1>I am currently running a Push Pull Legs Split</h1>
+            <h2>Click on the tabs above to view the details of my workouts</h2>
             <h2>Push: Chest, Triceps. Side delts and abs are also trained on these days</h2>
             <h2>Pull: Back, Biceps. I also train rear delts and do cardio on these days</h2>
             <h2>Legs: Quads, Hamstrings, Glutes. I train nothing else since I am too tired to do so &#40;leg day, am I right lol&#41; </h2>

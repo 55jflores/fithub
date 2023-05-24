@@ -16,7 +16,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <Link href='/'><h1>HOME</h1></Link>
+        <Link href='/'><h1 className='text-white text-center text-3xl'>FITHUB</h1></Link>
         {children}
       </body>
     </html>
