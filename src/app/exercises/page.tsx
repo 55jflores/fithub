@@ -3,11 +3,11 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Exercises',
-  description: 'Spice up your exercises with this page'
+  description: 'Types of exercises'
 }
 
 export default function Exercises() {
   return (
-    <div>Unique Exercises go here</div>
+    <div>Various types of exercises go here</div>
   )
 }
