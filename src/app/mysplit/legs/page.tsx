@@ -23,7 +23,7 @@ export default function Legs() {
         <div className='space-y-4'>
 
           <details className='bg-gray-700 shadow rounded group mb-4'>
-            <summary className='list-none flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
+            <summary className='list-none hide-arrow flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
               <h3 className='flex flex-1 p-4 font-semibold'>Leg Extensions</h3> 
               <div className='flex w-10 items-center justify-center'>
                 <div className='border-8 border-transparent border-l-gray-600 ml-2 group-open:rotate-90 transition-transform origin-left'></div>  
@@ -43,7 +43,7 @@ export default function Legs() {
           </details>
     
           <details className='bg-gray-700 shadow rounded group mb-4'>
-            <summary className='list-none flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
+            <summary className='list-none hide-arrow flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
               <h3 className='flex flex-1 p-4 font-semibold'>Leg Curls</h3> 
               <div className='flex w-10 items-center justify-center'>
                 <div className='border-8 border-transparent border-l-gray-600 ml-2 group-open:rotate-90 transition-transform origin-left'></div>  
@@ -63,7 +63,7 @@ export default function Legs() {
           </details>
     
           <details className='bg-gray-700 shadow rounded group mb-4'>
-            <summary className='list-none flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
+            <summary className='list-none hide-arrow flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
               <h3 className='flex flex-1 p-4 font-semibold'>Smith Machine Bulgarian Split Squats</h3> 
               <div className='flex w-10 items-center justify-center'>
                 <div className='border-8 border-transparent border-l-gray-600 ml-2 group-open:rotate-90 transition-transform origin-left'></div>  
@@ -83,7 +83,7 @@ export default function Legs() {
           </details>
     
           <details className='bg-gray-700 shadow rounded group mb-4'>
-            <summary className='list-none flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
+            <summary className='list-none hide-arrow flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
               <h3 className='flex flex-1 p-4 font-semibold'>Smith Machine Hip Thrust</h3> 
               <div className='flex w-10 items-center justify-center'>
                 <div className='border-8 border-transparent border-l-gray-600 ml-2 group-open:rotate-90 transition-transform origin-left'></div>  
@@ -103,7 +103,7 @@ export default function Legs() {
           </details>
     
           <details className='bg-gray-700 shadow rounded group mb-4'>
-            <summary className='list-none flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
+            <summary className='list-none hide-arrow flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
               <h3 className='flex flex-1 p-4 font-semibold'>Smith Machine Hack Squat</h3> 
               <div className='flex w-10 items-center justify-center'>
                 <div className='border-8 border-transparent border-l-gray-600 ml-2 group-open:rotate-90 transition-transform origin-left'></div>  
@@ -123,7 +123,7 @@ export default function Legs() {
           </details>
     
           <details className='bg-gray-700 shadow rounded group mb-4'>
-            <summary className='list-none flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
+            <summary className='list-none hide-arrow flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
               <h3 className='flex flex-1 p-4 font-semibold'>Cable Pullthrough</h3> 
               <div className='flex w-10 items-center justify-center'>
                 <div className='border-8 border-transparent border-l-gray-600 ml-2 group-open:rotate-90 transition-transform origin-left'></div>  

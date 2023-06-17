@@ -25,3 +25,7 @@ body {
     background-color: #1f2937;
   }
 }
+
+.hide-arrow::-webkit-details-marker {
+  display: none;
+}
