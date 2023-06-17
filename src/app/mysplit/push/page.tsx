@@ -22,7 +22,7 @@ export default function page() {
         <div className='space-y-4'>
 
         <details className='bg-gray-700 shadow rounded group mb-4'>
-          <summary className='list-none flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
+          <summary className='list-none hide-arrow flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
             <h3 className='flex flex-1 p-4 font-semibold'>Single Arm Cross body triceps extension</h3> 
             <div className='flex w-10 items-center justify-center'>
               <div className='border-8 border-transparent border-l-gray-600 ml-2 group-open:rotate-90 transition-transform origin-left'></div>  
@@ -42,7 +42,7 @@ export default function page() {
         </details>
        
         <details className='bg-gray-700 shadow rounded group mb-4'>
-          <summary className='list-none flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
+          <summary className='list-none hide-arrow flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
             <h3 className='flex flex-1 p-4 font-semibold'>Single Arm Chest Cable Fly High to Low</h3> 
             <div className='flex w-10 items-center justify-center'>
               <div className='border-8 border-transparent border-l-gray-600 ml-2 group-open:rotate-90 transition-transform origin-left'></div>  
@@ -62,7 +62,7 @@ export default function page() {
         </details>
        
         <details className='bg-gray-700 shadow rounded group mb-4'>
-          <summary className='list-none flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
+          <summary className='list-none hide-arrow flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
             <h3 className='flex flex-1 p-4 font-semibold'>Overhead Cable Tricep Extension</h3> 
             <div className='flex w-10 items-center justify-center'>
               <div className='border-8 border-transparent border-l-gray-600 ml-2 group-open:rotate-90 transition-transform origin-left'></div>  
@@ -82,7 +82,7 @@ export default function page() {
         </details>
     
         <details className='bg-gray-700 shadow rounded group mb-4'>
-          <summary className='list-none flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
+          <summary className='list-none hide-arrow flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
             <h3 className='flex flex-1 p-4 font-semibold'>Incline Chest Press Machine</h3> 
             <div className='flex w-10 items-center justify-center'>
               <div className='border-8 border-transparent border-l-gray-600 ml-2 group-open:rotate-90 transition-transform origin-left'></div>  
@@ -102,7 +102,7 @@ export default function page() {
         </details>
        
         <details className='bg-gray-700 shadow rounded group mb-4'>
-          <summary className='list-none flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
+          <summary className='list-none hide-arrow flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
             <h3 className='flex flex-1 p-4 font-semibold'>Seated Chest Press Machine</h3> 
             <div className='flex w-10 items-center justify-center'>
               <div className='border-8 border-transparent border-l-gray-600 ml-2 group-open:rotate-90 transition-transform origin-left'></div>  
@@ -121,7 +121,7 @@ export default function page() {
         </details>
       
         <details className='bg-gray-700 shadow rounded group mb-4'>
-          <summary className='list-none flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
+          <summary className='list-none hide-arrow flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
             <h3 className='flex flex-1 p-4 font-semibold'>Cable Lateral Raise</h3> 
             <div className='flex w-10 items-center justify-center'>
               <div className='border-8 border-transparent border-l-gray-600 ml-2 group-open:rotate-90 transition-transform origin-left'></div>  
@@ -141,7 +141,7 @@ export default function page() {
         </details>
       
         <details className='bg-gray-700 shadow rounded group mb-4'>
-          <summary className='list-none flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
+          <summary className='list-none hide-arrow flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
             <h3 className='flex flex-1 p-4 font-semibold'>Tricep Rope Press Down</h3> 
             <div className='flex w-10 items-center justify-center'>
               <div className='border-8 border-transparent border-l-gray-600 ml-2 group-open:rotate-90 transition-transform origin-left'></div>  

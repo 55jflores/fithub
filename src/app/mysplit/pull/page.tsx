@@ -21,7 +21,7 @@ export default function page() {
         <div className='space-y-4'>
 
           <details className='bg-gray-700 shadow rounded group mb-4'>
-            <summary className='list-none flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
+            <summary className='list-none hide-arrow flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
               <h3 className='flex flex-1 p-4 font-semibold'>Spider Curls</h3> 
               <div className='flex w-10 items-center justify-center'>
                 <div className='border-8 border-transparent border-l-gray-600 ml-2 group-open:rotate-90 transition-transform origin-left'></div>  
@@ -41,7 +41,7 @@ export default function page() {
           </details>
        
           <details className='bg-gray-700 shadow rounded group mb-4'>
-            <summary className='list-none flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
+            <summary className='list-none hide-arrow flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
               <h3 className='flex flex-1 p-4 font-semibold'>Assisted Pull Up Machine</h3> 
               <div className='flex w-10 items-center justify-center'>
                 <div className='border-8 border-transparent border-l-gray-600 ml-2 group-open:rotate-90 transition-transform origin-left'></div>  
@@ -61,7 +61,7 @@ export default function page() {
           </details>
         
           <details className='bg-gray-700 shadow rounded group mb-4'>
-            <summary className='list-none flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
+            <summary className='list-none hide-arrow flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
               <h3 className='flex flex-1 p-4 font-semibold'>Hammer Curls</h3> 
               <div className='flex w-10 items-center justify-center'>
                 <div className='border-8 border-transparent border-l-gray-600 ml-2 group-open:rotate-90 transition-transform origin-left'></div>  
@@ -81,7 +81,7 @@ export default function page() {
           </details>
       
           <details className='bg-gray-700 shadow rounded group mb-4'>
-            <summary className='list-none flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
+            <summary className='list-none hide-arrow flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
               <h3 className='flex flex-1 p-4 font-semibold'>Row Machine</h3> 
               <div className='flex w-10 items-center justify-center'>
                 <div className='border-8 border-transparent border-l-gray-600 ml-2 group-open:rotate-90 transition-transform origin-left'></div>  
@@ -101,7 +101,7 @@ export default function page() {
           </details>
        
           <details className='bg-gray-700 shadow rounded group mb-4'>
-            <summary className='list-none flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
+            <summary className='list-none hide-arrow flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
               <h3 className='flex flex-1 p-4 font-semibold'>Standing Barbbell Bicep Curls</h3> 
               <div className='flex w-10 items-center justify-center'>
                 <div className='border-8 border-transparent border-l-gray-600 ml-2 group-open:rotate-90 transition-transform origin-left'></div>  
@@ -120,7 +120,7 @@ export default function page() {
           </details>
       
           <details className='bg-gray-700 shadow rounded group mb-4'>
-            <summary className='list-none flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
+            <summary className='list-none hide-arrow flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
               <h3 className='flex flex-1 p-4 font-semibold'>Unilateral Cable Rear Delt Fly</h3> 
               <div className='flex w-10 items-center justify-center'>
                 <div className='border-8 border-transparent border-l-gray-600 ml-2 group-open:rotate-90 transition-transform origin-left'></div>  
@@ -139,7 +139,7 @@ export default function page() {
           </details>
        
           <details className='bg-gray-700 shadow rounded group mb-4'>
-            <summary className='list-none flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
+            <summary className='list-none hide-arrow flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus-visible:ring focus-visible:ring-purple-500 rounded group-open:rounded-b-none group-open:z-[1] relative'>
               <h3 className='flex flex-1 p-4 font-semibold'>Rope Pullover</h3> 
               <div className='flex w-10 items-center justify-center'>
                 <div className='border-8 border-transparent border-l-gray-600 ml-2 group-open:rotate-90 transition-transform origin-left'></div>  
