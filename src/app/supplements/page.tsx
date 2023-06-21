@@ -11,7 +11,7 @@ export default function Supplements() {
   return (
     <div className='flex flex-col items-center text-white'>
             <h1>Creatine, protein supplements, vitamins etc </h1>
-            <h2>Click on tabs to view the types of supplements</h2>
+            <h2>Click on tabs to view the types of supplements I take, both for gym and/or lifestyle wise</h2>
 
             <h2>Supplements I currently take:</h2>
             <ul className='list-disc list-inside'>

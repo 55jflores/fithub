@@ -6,8 +6,8 @@ export const metadata: Metadata = {
   description: 'Types of exercises'
 }
 
-export default function Exercises() {
+export default function Cardio() {
   return (
-    <div>Click on the tabs above to learn about why it is important to train a specific muscle</div>
+    <div>Click on the tabs above to learn more about cardio exercise I am currently doing as well as learn about why it is important</div>
   )
 }
